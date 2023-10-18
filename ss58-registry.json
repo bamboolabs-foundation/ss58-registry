@@ -974,6 +974,15 @@
       "website": "https://www.sctl.xyz"
     },
     {
+      "prefix": 1658,
+      "network": "identitas",
+      "displayName": "IDN Identity Network",
+      "symbols": ["IDT"],
+      "decimals": [12],
+      "standardAccount": "Ed25519",
+      "website": "https://indentitas.network"
+    },
+    {
       "prefix": 1985,
       "network": "seals",
       "displayName": "Seals Network",
